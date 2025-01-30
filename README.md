@@ -37,11 +37,6 @@ Images used in the project, including banners, product images, and logos, are st
    ```
 2. Open `index.html` in a web browser to explore the website.
 
-## 📞 Contact
-
-For any inquiries, visit the **Contact Us** page or email us at:
-📧 [info@Impressed_Clothing_Irons.com](mailto:info@Impressed_Clothing_Irons.com)
-
 ## 📜 License
 
 This project is for educational and informational purposes. All rights reserved.
